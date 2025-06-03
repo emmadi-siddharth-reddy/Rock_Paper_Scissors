@@ -33,8 +33,11 @@ body{
             margin-top: 60px;
         }
 
-        .reset{
+        .reset, .auto-play{
             padding: 7px 15px;
             font-size: 15px;
             border: none;
+        }
+        button{
+            cursor: pointer;
         }
